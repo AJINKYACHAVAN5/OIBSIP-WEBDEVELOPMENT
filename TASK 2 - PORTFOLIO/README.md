@@ -1,17 +1,7 @@
-# Neumorphism/Soft Calculator UI Design 
+# Portfolio Responsive Complete
 
-### RESPONSIVE-CALCULATOR-UI-DESIGN
+### Portfolio responsive complete
+A clean and nice web portfolio for designer or developer. That includes almost everything you want to show. At first, your name, links to social networks and a great image. Then the About section displays more information about you. Then the list of Skills it offers. It also has a section where it shows some recent work. And at the bottom it has a form, and at the end with a footer.
 
-- A very simple Calculator made using HTML, CSS and JavaScript with Neumorphism/Soft UI.
 
-![Calculator ui](https://github.com/AJINKYACHAVAN5/RESPONSIVE-CALCULATOR-UI-DESIGN/blob/main/Preview1.png.png)
-                                  
-                                             𝐍𝐞𝐮𝐦𝐨𝐫𝐩𝐡𝐢𝐬𝐦 𝐂𝐚𝐥𝐜𝐮𝐥𝐚𝐭𝐨𝐫 𝐔𝐈 𝐃𝐞𝐬𝐢𝐠𝐧-𝟏
-
-![Calculator ui](https://github.com/AJINKYACHAVAN5/RESPONSIVE-CALCULATOR-UI-DESIGN/blob/main/Preview2.png.jpg)
-
-                                             𝐍𝐞𝐮𝐦𝐨𝐫𝐩𝐡𝐢𝐬𝐦 𝐂𝐚𝐥𝐜𝐮𝐥𝐚𝐭𝐨𝐫 𝐔𝐈 𝐃𝐞𝐬𝐢𝐠𝐧-𝟐
-
-![Calculator ui](https://github.com/AJINKYACHAVAN5/RESPONSIVE-CALCULATOR-UI-DESIGN/blob/main/Preview.png.jpg)
-
-                                             𝐍𝐞𝐮𝐦𝐨𝐫𝐩𝐡𝐢𝐬𝐦 𝐂𝐚𝐥𝐜𝐮𝐥𝐚𝐭𝐨𝐫 𝐔𝐈 𝐃𝐞𝐬𝐢𝐠𝐧-𝟑
+![preview img](preview.png)
